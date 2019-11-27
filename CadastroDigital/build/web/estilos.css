@@ -1,0 +1,159 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 18/11/2019, 10:51:15
+    Author     : matheus
+*/
+@import url('https://fonts.googleapis.com/css?family=Bebas+Neue&display=swap');
+
+
+body{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 20px;    
+}
+
+.container {
+    width: 1830px;
+    margin-left: -20px;
+    margin-right: 0px;
+}
+
+#main{
+    position: relative;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 35px;
+    background: #fff url("imagens/fundo.jpg") no-repeat;
+    width: 1850px;
+    height: 200px;
+    margin-top: -25px;
+    margin-left: -8px;
+    margin-right: 0px;
+}
+
+#logousjt{
+    position: relative;
+    left: 90px;
+    top: 50px;
+    width: 300px;
+    height: 100px;
+}
+
+#menu{
+    position: relative;
+    align-content: center;
+    left: 850px;
+    top: -60px;
+    width: 800px;
+    height: 100px;    
+}
+
+#cadastro{
+    position: relative;
+    align-content: center;
+    left: 700px;
+    top: -60px;
+    width: 800px;
+    height: 100px;    
+}
+#cadastrop{
+    position: relative;
+    align-content: center;
+    left: 625px;
+    top: -60px;
+    width: 800px;
+    height: 100px;    
+}
+       
+#divaluno{
+    position: relative;
+    font-family: 'Bebas Neue', cursive;
+    width: 935px;
+    height: 369px;   
+}
+
+#aluno{
+    position: relative;
+    left: 110px;
+    top: 20px;
+    width: 300px;
+    height: 100px;
+}
+
+#divprof{
+    position: relative;
+    
+    font-family: 'Bebas Neue', cursive;
+    background: #fff url("imagens/prof.png") no-repeat;
+    width: 1830px;
+    height: 368px;
+}
+
+#prof{
+    position: relative;
+    left: 60px;
+    top:20px;
+    width: 300px;
+    height: 100px;
+}
+
+.divider{
+    overflow: hidden;
+    border-top: 3px solid #dbdbdb
+}
+
+
+ 
+.button {
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    display: inline-block;
+    margin-top: 2em;
+    padding: 0.8em 1.5em;
+    background: #1d1d1d;
+    border-radius: 6px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 1em;
+    color: #FFF;
+    -moz-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
+    -webkit-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
+    -o-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
+    -ms-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
+    transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
+    cursor: pointer;
+}
+
+    .button:hover {
+        background: #141414;
+	color: #FFF !important;
+    }
+    
+.button2 {
+    font-family: 'Bebas Neue', cursive;
+    position: relative;
+    left: 1355px;
+    display: inline-block;
+    margin-top: 0em;
+    padding: 0.8em 1.5em;
+    background: #1d1d1d;
+    border-radius: 6px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 3em;
+    color: #FFF;
+    -moz-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
+    -webkit-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
+    -o-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
+    -ms-transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
+    transition: color 0.35s ease-in-out, background-color 0.35s ease-in-out;
+    cursor: pointer;
+}
+
+    .button2:hover {
+        background: #141414;
+	color: #FFF !important;
+    }
+		
